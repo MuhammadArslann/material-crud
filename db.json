@@ -1,0 +1,50 @@
+{
+  "product": [
+    {
+      "productName": "Potato",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 123,
+      "comment": "This is just another example of description.",
+      "date": "2022-03-22T19:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Carrots",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "hello world this is carrot",
+      "date": "2022-03-22T19:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Strawberry",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 51651,
+      "comment": "This is updated description.",
+      "date": "2022-03-18T19:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "vbvcb",
+      "category": "Vegetable",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "asdsad",
+      "date": "2022-07-07T19:00:00.000Z",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
